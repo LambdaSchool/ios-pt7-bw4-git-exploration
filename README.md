@@ -2,7 +2,7 @@
 
 Name: Dimitri Bouniol
 
-Favorite Color: Blue
+Favorite Color: Green
 
 Favorite Food: Pizza
 
