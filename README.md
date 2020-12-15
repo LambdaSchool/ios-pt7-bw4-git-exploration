@@ -1,6 +1,6 @@
 # Introductions
 
-Name: Irtimid
+Name: Dimitri Bouniol
 
 Favorite Color: Blue
 
