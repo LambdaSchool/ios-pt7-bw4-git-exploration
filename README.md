@@ -1,8 +1,8 @@
 # Introductions
 
-Name:
+Name: Irtimid
 
-Favorite Color:
+Favorite Color: Blue
 
-Favorite Food:
+Favorite Food: Pizza
 
